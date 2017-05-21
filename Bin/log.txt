@@ -1,0 +1,44 @@
+
+Log Entry : 11:49:49 AM Monday, March 27, 2017
+  :
+  :Đã lưu thành công thông tin của đáp viên 1001 3f4e6505-d2d4-4a21-af72-f421171f5df7
+-------------------------------
+
+Log Entry : 11:49:49 AM Monday, March 27, 2017
+  :
+  :[11:49:49]: Đã lưu thành công thông tin của đáp viên 1001 3f4e6505-d2d4-4a21-af72-f421171f5df7
+
+-------------------------------
+
+Log Entry : 11:49:54 AM Monday, March 27, 2017
+  :
+  :Đã lưu thành công thông tin của đáp viên 1001 3f4e6505-d2d4-4a21-af72-f421171f5df7
+-------------------------------
+
+Log Entry : 11:49:54 AM Monday, March 27, 2017
+  :
+  :[11:49:54]: Đã lưu thành công thông tin của đáp viên 1001 3f4e6505-d2d4-4a21-af72-f421171f5df7
+
+-------------------------------
+
+Log Entry : 1:12:03 PM Tuesday, April 04, 2017
+  :
+  :Đã lưu thành công thông tin của đáp viên 9999 f682a219-fe16-4699-a503-edd5de239e72
+-------------------------------
+
+Log Entry : 1:12:03 PM Tuesday, April 04, 2017
+  :
+  :[13:12:03]: Đã lưu thành công thông tin của đáp viên 9999 f682a219-fe16-4699-a503-edd5de239e72
+
+-------------------------------
+
+Log Entry : 1:12:29 PM Tuesday, April 04, 2017
+  :
+  :Đã lưu thành công thông tin của đáp viên 9999 f682a219-fe16-4699-a503-edd5de239e72
+-------------------------------
+
+Log Entry : 1:12:29 PM Tuesday, April 04, 2017
+  :
+  :[13:12:29]: Đã lưu thành công thông tin của đáp viên 9999 f682a219-fe16-4699-a503-edd5de239e72
+
+-------------------------------
